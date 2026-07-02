@@ -32,14 +32,14 @@ I'm looking to begin my career in the IT industry, where I can apply my academic
 
 ## 📂 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🌾 **AgroVision** | Agriculture guidance app — plant disease detection, fertilizer suggestions, market price prediction, weather analysis |
-| 🏥 **MediMatch** | AI-powered healthcare assistant — analyzes symptoms, gives guidance, recommends nearby services |
-| 🎵 **EmoTune** | AI-powered smart music recommendation system based on mood |
-| 🌿 **EcoHaven** | Website for purchasing natural products |
-| 🍔 **CraveZone** | Full-stack food ordering system with admin dashboard |
-| 🃏 **Flip & Find Pairs** | Memory card matching game |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🌾 **AgroVision** | Agriculture guidance app — plant disease detection, fertilizer suggestions, market price prediction, weather analysis | MySQL, HTML, CSS |
+| 🏥 **MediMatch** | AI-powered healthcare assistant — analyzes symptoms, gives guidance, recommends nearby services |Embedding + RAG pipeline, Java Spring Boot REST API, Vector to endee, MySQL, HTML, CSS |
+| 🎵 **EmoTune** | AI-powered smart music recommendation system based on mood |Emotion detection model, HTML, CSS |
+| 🌿 **EcoHaven** | Website for purchasing natural products | HTML, CSS |
+| 🍔 **CraveZone** | Full-stack food ordering system with admin dashboard | HTML, CSS, JavaScript, Java Servlets/JSP, MySQL |
+| 🃏 **Flip & Find Pairs** | Memory card matching game | HTML, CSS |
 
 ---
 
