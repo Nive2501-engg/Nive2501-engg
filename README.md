@@ -1,19 +1,19 @@
-# Hi, I'm Nivetha S 👋
+# Hi, I'm Nivetha S 
 
-🎓 B.Tech Information Technology student at V.S.B Engineering College, Karur (2023–2027) | CGPA: 8.33
+ B.Tech Information Technology student at V.S.B Engineering College, Karur (2023–2027) | CGPA: 8.33
 
-🚀 Aspiring Software Developer, exploring AI-powered applications
+ Aspiring Software Developer, exploring AI-powered applications
 
-📍 Vaikkal Pudhur, Nathakadaiyur
+ Vaikkal Pudhur, Nathakadaiyur
 
 ---
 
-## 🧠 About Me
+##  About Me
 I'm looking to begin my career in the IT industry, where I can apply my academic knowledge, build practical skills, and keep learning emerging technologies in software development and AI.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Technical**
 - Java
@@ -30,20 +30,20 @@ I'm looking to begin my career in the IT industry, where I can apply my academic
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🌾 **AgroVision** | Agriculture guidance app — plant disease detection, fertilizer suggestions, market price prediction, weather analysis | MySQL, HTML, CSS |
-| 🏥 **MediMatch** | AI-powered healthcare assistant — analyzes symptoms, gives guidance, recommends nearby services |Embedding + RAG pipeline, Java Spring Boot REST API, Vector to endee, MySQL, HTML, CSS |
-| 🎵 **EmoTune** | AI-powered smart music recommendation system based on mood |Emotion detection model, HTML, CSS |
-| 🌿 **EcoHaven** | Website for purchasing natural products | HTML, CSS |
-| 🍔 **CraveZone** | Full-stack food ordering system with admin dashboard | HTML, CSS, JavaScript, Java Servlets/JSP, MySQL |
-| 🃏 **Flip & Find Pairs** | Memory card matching game | HTML, CSS |
+|  **AgroVision** | Agriculture guidance app — plant disease detection, fertilizer suggestions, market price prediction, weather analysis | MySQL, HTML, CSS |
+|  **MediMatch** | AI-powered healthcare assistant — analyzes symptoms, gives guidance, recommends nearby services |Embedding + RAG pipeline, Java Spring Boot REST API, Vector to endee, MySQL, HTML, CSS |
+|  **EmoTune** | AI-powered smart music recommendation system based on mood |Emotion detection model, HTML, CSS |
+|  **EcoHaven** | Website for purchasing natural products | HTML, CSS |
+|  **CraveZone** | Full-stack food ordering system with admin dashboard | HTML, CSS, JavaScript, Java Servlets/JSP, MySQL |
+|  **Flip & Find Pairs** | Memory card matching game | HTML, CSS |
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 - 🥉 3rd Prize — Paper Presentation, Sri Ramakrishna College of Engineering, Coimbatore
 - Elite Certificate in Programming in Java & Software Testing — NPTEL
 - Java Foundation Certification — Infosys
@@ -52,11 +52,11 @@ I'm looking to begin my career in the IT industry, where I can apply my academic
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - 📧 nivethasomu01@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/nivetha-s-b23708310)
 - 💻 [GitHub](https://github.com/Nive2501-engg)
 
 ---
 
-🗣️ **Languages:** Tamil (Native), English (Fluent)
+ **Languages:** Tamil (Native), English (Fluent)
